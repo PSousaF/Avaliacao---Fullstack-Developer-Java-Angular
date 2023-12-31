@@ -68,6 +68,3 @@ Não adicionado, apenas um front simples de login.
 
 - Pedro Sousa Filho
   
-### Observação:
-Qualquer dúvida, enviar email para pedroo.sousa@outlook.com.br.
-Obrigado
